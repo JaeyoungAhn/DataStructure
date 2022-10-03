@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/quaki/CLionProjects/ds/LinearList.h
+
+/Users/quaki/CLionProjects/ds/MyQueue.h
+
+/Users/quaki/CLionProjects/ds/MyStack.h
+
+/Users/quaki/CLionProjects/ds/main.cpp
+iostream
+-
+LinearList.h
+/Users/quaki/CLionProjects/ds/LinearList.h
+MyStack.h
+/Users/quaki/CLionProjects/ds/MyStack.h
+MyQueue.h
+/Users/quaki/CLionProjects/ds/MyQueue.h
+list
+-
+
