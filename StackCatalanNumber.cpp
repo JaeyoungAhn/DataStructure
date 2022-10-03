@@ -4,20 +4,26 @@ using namespace std;
 
 int main(void) {
     stack<int> s;
-    int num, current, idx;
-    idx=1;
+    int order, num, current, idx;
+    idx=0;
+    order=1;
     cin >> num;
+
+    int *list = new int[num];
+
+    for(int i=0; i<num; i++) cin >> list[i];
+
     for(int i=0; i<num; i++) {
-        cin >> current;
-        while(true) {
-            if(idx<=num) s.push(idx);
-            if(idx<num) idx++;
-            if( (idx == num && s.top() != current) || ) break;
-            if(s.top() == current) s.pop();
+        s.push(order++);
+        while (!s.empty() && (list[idx] == s.top()) ) {
+            idx++;
+            s.pop();
         }
     }
-    if(s.empty()) cout << "YES";
-    else cout << "NO";
+
+    if(s.empty()) cout << "YES" << endl;
+    else cout << "NO" << endl;
 
     return 0;
 }
+
