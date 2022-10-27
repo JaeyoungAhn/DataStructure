@@ -2,7 +2,7 @@
 // Created by Ahn on 2022/09/16.
 //
 
-#include "LinearList.h"
+#include "02.LinearList.h"
 LinearList::LinearList() {
     items = new ITEM[MAX_ITEMS_COUNTS];
     count = 0;

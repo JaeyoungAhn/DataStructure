@@ -2,7 +2,7 @@
 // Created by Ahn on 2022/09/23.
 //
 
-#include "MyQueue.h"
+#include "02.MyQueue.h"
 #include <iostream>
 MyQueue::MyQueue(int queueCapacity):capacity(queueCapacity) {
     if (capacity < 1)

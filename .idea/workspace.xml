@@ -15,11 +15,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11b29d91-4776-4344-b165-4ee0147038e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Factorial.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ds.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ds.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ds" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BalloonCircle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/4.BalloonCircle.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BigFactorial.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/8.BigFactorial.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BracketBalance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/6.BracketBalance.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorial.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/00.Factorial.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JosephusPermutation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/7.JosephusPermutation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/02.LinearList.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearList.h" beforeDir="false" afterPath="$PROJECT_DIR$/02.LinearList.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListSTL.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/02.ListSTL.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyQueue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/02.MyQueue.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyQueue.h" beforeDir="false" afterPath="$PROJECT_DIR$/02.MyQueue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/01.MyStack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyStack.h" beforeDir="false" afterPath="$PROJECT_DIR$/01.MyStack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostFixCalcul.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/2.PostFixCalcul.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StackCatalanNumber.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1.StackCatalanNumber.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThrowCardStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/3.ThrowCardStack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TomatoFarm.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/9.TomatoFarm.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreeCheck.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/5.TreeCheck.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/02.LinearListMain.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +106,7 @@
       <workItem from="1665712623737" duration="6718000" />
       <workItem from="1665731435888" duration="7734000" />
       <workItem from="1666310914556" duration="13419000" />
-      <workItem from="1666716444570" duration="2343000" />
+      <workItem from="1666716444570" duration="3028000" />
     </task>
     <servers />
   </component>
