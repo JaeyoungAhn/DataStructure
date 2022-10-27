@@ -7,8 +7,8 @@
 
 class MyStack {
     public:
-        MyStack(int stackCapacity = 10);
-        ~MyStack() {delete [] stack;}
+        MyStack(int stackCapacity = 10); // constructor
+        ~MyStack() {delete [] stack;} // destructor
         bool IsEmpty() const;
         int& Top() const;
         void Push(const int& x);

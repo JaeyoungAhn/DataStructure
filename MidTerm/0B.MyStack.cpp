@@ -2,7 +2,7 @@
 // Created by Ahn on 2022/09/23.
 //
 
-#include "01.MyStack.h"
+#include "0B.MyStack.h"
 
 MyStack::MyStack(int stackCapacity):capacity(stackCapacity) {
     if (capacity < 1)

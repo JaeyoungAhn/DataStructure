@@ -1,7 +1,7 @@
 #include <iostream>
-#include "02.LinearList.h"
-#include "01.MyStack.h"
-#include "02.MyQueue.h"
+#include "0C.LinearList.h"
+#include "0B.MyStack.h"
+#include "0E.MyQueue.h"
 #include <list>
 using namespace std;
 int main() {

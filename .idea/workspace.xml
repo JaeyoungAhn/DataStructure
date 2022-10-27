@@ -16,25 +16,15 @@
   <component name="ChangeListManager">
     <list default="true" id="11b29d91-4776-4344-b165-4ee0147038e2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BalloonCircle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/4.BalloonCircle.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigFactorial.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/8.BigFactorial.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BracketBalance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/6.BracketBalance.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factorial.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/00.Factorial.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JosephusPermutation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/7.JosephusPermutation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/02.LinearList.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearList.h" beforeDir="false" afterPath="$PROJECT_DIR$/02.LinearList.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListSTL.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/02.ListSTL.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyQueue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/02.MyQueue.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyQueue.h" beforeDir="false" afterPath="$PROJECT_DIR$/02.MyQueue.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/01.MyStack.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyStack.h" beforeDir="false" afterPath="$PROJECT_DIR$/01.MyStack.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostFixCalcul.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/2.PostFixCalcul.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StackCatalanNumber.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1.StackCatalanNumber.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThrowCardStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/3.ThrowCardStack.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TomatoFarm.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/9.TomatoFarm.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TreeCheck.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/5.TreeCheck.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/02.LinearListMain.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidTerm/00.Factorial.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0A.Factorial.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidTerm/01.MyStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0B.MyStack.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidTerm/01.MyStack.h" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0B.MyStack.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidTerm/02.LinearList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0C.LinearList.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidTerm/02.LinearList.h" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0C.LinearList.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidTerm/02.LinearListMain.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0C.LinearListMain.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidTerm/02.ListSTL.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0D.ListSTL.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidTerm/02.MyQueue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0E.MyQueue.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidTerm/02.MyQueue.h" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0E.MyQueue.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +50,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -77,15 +68,20 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MidTerm" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="ds" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ds" TARGET_NAME="ds" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ds" RUN_TARGET_NAME="ds">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ds" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ds" TARGET_NAME="ds" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ds" RUN_TARGET_NAME="ds">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -106,7 +102,9 @@
       <workItem from="1665712623737" duration="6718000" />
       <workItem from="1665731435888" duration="7734000" />
       <workItem from="1666310914556" duration="13419000" />
-      <workItem from="1666716444570" duration="3028000" />
+      <workItem from="1666716444570" duration="8382000" />
+      <workItem from="1666856106091" duration="3000" />
+      <workItem from="1666856112005" duration="8722000" />
     </task>
     <servers />
   </component>
