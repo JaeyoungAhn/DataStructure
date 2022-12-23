@@ -15,16 +15,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11b29d91-4776-4344-b165-4ee0147038e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeapMain.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeapNode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxHeap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid/스크린샷 2022-10-28 오전 11.35.22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid/스크린샷 2022-10-28 오전 11.35.32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid/스크린샷 2022-10-28 오전 11.35.40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid/스크린샷 2022-10-28 오전 11.35.47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mid/스크린샷 2022-10-28 오전 11.35.53.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidTerm/00.Factorial.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0A.Factorial.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidTerm/01.MyStack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0B.MyStack.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidTerm/01.MyStack.h" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0B.MyStack.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidTerm/02.LinearList.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0C.LinearList.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidTerm/02.LinearList.h" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0C.LinearList.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidTerm/02.LinearListMain.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0C.LinearListMain.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidTerm/02.ListSTL.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0D.ListSTL.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidTerm/02.MyQueue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0E.MyQueue.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidTerm/02.MyQueue.h" beforeDir="false" afterPath="$PROJECT_DIR$/MidTerm/0E.MyQueue.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,13 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +51,18 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MidTerm/catalan.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MidTerm/9.TomatoFarm.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MidTerm/9A.KruskalAlgorithm.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MidTerm/test.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HashFolding.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mid/main.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FingerPainting.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DijikstraEdge.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MidTerm/3B.RatInAMaza.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DijikstraEdgeMin.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2EpQbTTaEzpovE8Igz5kX0Sbuau" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -61,6 +80,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -69,19 +89,23 @@
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Mid" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/MidTerm" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="ds" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ds" TARGET_NAME="ds" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ds" RUN_TARGET_NAME="ds">
+    <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/HeapMain.cpp" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -104,7 +128,23 @@
       <workItem from="1666310914556" duration="13419000" />
       <workItem from="1666716444570" duration="8382000" />
       <workItem from="1666856106091" duration="3000" />
-      <workItem from="1666856112005" duration="8722000" />
+      <workItem from="1666856112005" duration="17050000" />
+      <workItem from="1667526674671" duration="5272000" />
+      <workItem from="1667829541574" duration="7140000" />
+      <workItem from="1668039239377" duration="680000" />
+      <workItem from="1668125055764" duration="4094000" />
+      <workItem from="1668737569697" duration="3519000" />
+      <workItem from="1669526515417" duration="2450000" />
+      <workItem from="1669529967029" duration="506000" />
+      <workItem from="1669616978483" duration="9452000" />
+      <workItem from="1669627308911" duration="13503000" />
+      <workItem from="1669781342381" duration="18529000" />
+      <workItem from="1669828656931" duration="35406000" />
+      <workItem from="1670680756350" duration="3384000" />
+      <workItem from="1670755244867" duration="546000" />
+      <workItem from="1670755851881" duration="86000" />
+      <workItem from="1670756001641" duration="249000" />
+      <workItem from="1670756317748" duration="527000" />
     </task>
     <servers />
   </component>
